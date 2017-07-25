@@ -1,26 +1,11 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+# ionic3-tutorial-in-app-review
+This code is part of a tutorial on how to implement in-app reviews and ratings in Ionic 2+ apps.
 
-## How to use this template
+Read the tutorial here: [How To Implement In-App Ratings For Ionic Apps On iOS](https://gonehybrid.com/how-to-implement-in-app-ratings-for-ionic-apps-on-ios/)
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+For more tutorials on Ionic, check out my blog [Gone Hybrid](http://gonehybrid.com).
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+# How to run the app
+After cloning the repo, run `npm install` followed by the `ionic serve` command.
 
-### With the Ionic CLI:
-
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
-
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
-```
-
-Then, to run it, cd into `myBlank` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
-
+Make sure you have all the tools installed, see [installation guide](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-2/).
